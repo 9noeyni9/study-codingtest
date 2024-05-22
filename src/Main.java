@@ -1,4 +1,5 @@
 import day1.Array2Hard;
+import day3.Stack1Easy;
 
 import java.io.IOException;
 
@@ -17,7 +18,12 @@ public class Main {
 //        array2Easy.solution();
 
         // day1.Array2Easy
-        Array2Hard array2Hard = new Array2Hard();
-        array2Hard.solution();
+//        Array2Hard array2Hard = new Array2Hard();
+//        array2Hard.solution();
+
+        //day3.Stack1Easy
+
+        Stack1Easy stack1Easy = new Stack1Easy();
+        stack1Easy.solution();
     }
 }
