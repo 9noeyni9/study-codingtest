@@ -1,6 +1,4 @@
-import day1.Array1Easy;
-import day1.Array1Hard;
-import day1.Array2Easy;
+import day1.Array2Hard;
 
 import java.io.IOException;
 
@@ -15,7 +13,11 @@ public class Main {
 //        array1Hard.solution();
 
         // day1.Array2Easy
-        Array2Easy array2Easy = new Array2Easy();
-        array2Easy.solution();
+//        Array2Easy array2Easy = new Array2Easy();
+//        array2Easy.solution();
+
+        // day1.Array2Easy
+        Array2Hard array2Hard = new Array2Hard();
+        array2Hard.solution();
     }
 }
