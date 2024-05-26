@@ -1,4 +1,5 @@
 import day3.Stack1Hard;
+import day4.Queue1Easy;
 
 import java.io.IOException;
 
@@ -25,7 +26,11 @@ public class Main {
 //        stack1Easy.solution();
 
         //day3.Stack1Hard
-        Stack1Hard stack1Hard = new Stack1Hard();
-        stack1Hard.solution();
+//        Stack1Hard stack1Hard = new Stack1Hard();
+//        stack1Hard.solution();
+
+        //day4.Queue1Easy
+        Queue1Easy queue1Easy = new Queue1Easy();
+        queue1Easy.solution();
     }
 }
